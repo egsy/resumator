@@ -1,0 +1,212 @@
+{
+    "basics": {
+      "name": "Elaine Yeung",
+      "label": "Software developer",
+      "email": "",
+      "phone": "",
+      "website": "elaineis.online",
+      "summary": "Prior to software engineering, Elaine worked in early childhood education for eight years, serving the last four as an assistant principal in Houston, Texas. Before that, she interned for the Texas State Legislature and the US Department of Justice. Her frustration with educational technology led to my decision to change careers and study software development. I enjoy programming as an outlet for me to creatively and analytically express myself.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "",
+        "countryCode": "US",
+        "region": ""
+      },
+      "profiles": [
+        {
+          "network": "Twitter",
+          "username": "egsy"
+        },
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/yeungegs"
+        },
+        {
+          "network": "GitHub",
+          "url": "https://github.com/yeungegs"
+        },
+        {
+          "network": "GitHub",
+          "url": "https://github.com/egsy"
+        }
+      ]
+    },
+    "work": [
+      {
+        "startDate": "2018-02-23",
+        "position": "Software engineering intern",
+        "company": "Sentry",
+        "website": "",
+        "summary": "",
+        "highlights": [
+          "Developed tool to send Google Cloud resource quota percentages via Slack notifications",
+          "Built prototype of Sentry engineering's internal development environment using Docker Compose",
+          "Transitioned organization from self-hosted Docker registry to Google Cloud Platform Container Registry",
+          "Integrated Google Cloud Container Builder to build Docker images for our deploy pipeline",
+          "Developed garbage collection tool to clean up old images from Google Cloud Container Registry"
+        ]
+      },
+      {
+        "startDate": "July 2015 - June 2016",
+        "position": "Operations and Blended Learning Coordinator",
+        "company": "KIPP Legacy Preparatory School",
+        "website": "",
+        "summary": "",
+        "highlights": [
+          "Delivered professional development in leveraging data collected from blended learning programs",
+          "Managed campus inventory and administration of 210 iPads and 300 Chromebooks",
+          "Campus Coordinator for annual state test (STAAR) overseeing compliance with district and state policies"
+        ]
+      },
+      {
+        "startDate": "July 2014 - June 2015",
+        "position": "DEAN OF DATA AND DIFFERENTIATION",
+        "company": "KIPP Legacy Preparatory School",
+        "website": "",
+        "summary": "",
+        "highlights": [
+          "Oversaw the expansion of blended learning from two to five grade levels so that all students from kindergarten and up have up to 110 minutes of individualized instruction each day"
+        ]
+      },
+      {
+        "startDate": "July 2012 - June 2014",
+        "position": "DEAN OF TECHNOLOGY, DATA AND SYSTEMS ",
+        "company": "KIPP Legacy Preparatory School",
+        "website": "",
+        "summary": "",
+        "highlights": [
+          "Authored two successful grant applications resulting in funds totaling over $100,000 to purchase Chromebooks",
+          "Promoted within school because of demonstrated leadership skills and ability to drive student achievement"
+        ]
+      },
+      {
+        "startDate": "June 2010 - June 2012",
+        "position": "LEAD TEACHER",
+        "company": "",
+        "website": "",
+        "summary": "",
+        "highlights": [
+          "Recruited to be a founding teacher in one of ten kindergarten classrooms at KIPP Legacy"
+        ]
+      },
+      {
+        "startDate": "June 2008 - May 2010",
+        "position": "Prekindergarten Teacher",
+        "company": "NEIGHBORHOOD CENTERS",
+        "website": "",
+        "summary": "Teach For America, Houston, TX",
+        "highlights": [
+        ]
+      },
+      {
+        "startDate": "January – May 2007",
+        "position": "POLICY ADVISOR (INTERN), 80TH TEXAS LEGISLATIVE SESSION",
+        "company": "State Senator Rodney Ellis, Austin, TX",
+        "website": "",
+        "summary": "",
+        "highlights": [
+        ]
+      },
+      {
+        "startDate": "June - August 2006",
+        "position": "COMMUNITY RELATIONS SERVICE, ORGANIZATION OF CHINESE AMERICANS INTERN",
+        "company": "US Department of Justice, Washington, DC",
+        "website": "",
+        "summary": "",
+        "highlights": [
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Holberton School",
+        "startDate": "January 2017",
+        "endDate": "December 2017",
+        "area": "Software engineering",
+        "studyType": "",
+        "courses": [
+            "StarCraft II Learning Environment in Docker https://github.com/yeungegs/botbier",
+            "Designed final project for Holberton to align with interests in StarCraft II (SC2) and automation",
+            "Reduced barriers to SC2 Learning Environment setup through improved documentation and containerization in Docker",
+            "Collaborated with engineers from Blizzard and Deep Mind at invitation only SC2 AI workshop to improve project design",
+            "Bytecode interpreter https://github.com/yeungegs/monty",
+            "Applied knowledge of stack and queue concepts to create an interpreter of bytecode files"
+        ]
+      },
+      {
+        "institution": "Baylor University",
+        "startDate": "August 2003",
+        "endDate": "August 2007",
+        "area": "University Scholars Program with concentrations in sociology, political science and philosophy",
+        "studyType": "Bachelor of Arts",
+        "courses": [
+            ""
+        ]
+      }
+
+    ],
+    "awards": [
+      {
+        "title": "Diversity Scholarship recipient to attend KubeCon North America 2018",
+        "date": "November 2018",
+        "awarder": "Cloud Native Computing Foundation"
+      },
+      {
+        "title": "StarCraft II Artificial Intelligence workshop attendee",
+        "date": "November 2017",
+        "awarder": "Blizzard"
+      },
+      {
+        "title": "Diversity Scholarship recipient to attend Open Source Summit",
+        "date": "September 2017",
+        "awarder": "Linux Foundation"
+      }
+    ],
+    "publications": [
+      {
+        "name": "Interview with The Cube",
+        "publisher": "The Cube",
+        "releaseDate": "",
+        "website": "http://bit.ly/OSStheCubeinterview",
+        "summary": "Interview with theCube during Linux Foundation Open Source Summit in Los Angeles"
+      },
+      {
+        "name": "Bash Scripts",
+        "publisher": "",
+        "releaseDate": "",
+        "website": "https://www.pscp.tv/w/1DXGyOmrAvYxM",
+        "summary": "Rap about bash scripts performed for Holberton School’s Battle of the Programming Languages"
+      },
+      {
+        "name": "Using objdump to investigate k = k++",
+        "publisher": "Linux.com",
+        "releaseDate": "April 5, 2017",
+        "website": "https://www.linux.com/blog/using-objdump-investigate-k-k"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Scripting",
+        "level": "Intermediate",
+        "keywords": [
+          "Bash",
+          "Python"
+        ]
+      },
+      {
+        "name": "Software Development",
+        "level": "Intermediate",
+        "keywords": [
+          "Python",
+          "Javascript"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "Mario Izquierdo",
+        "reference": ""
+      }
+    ]
+  }

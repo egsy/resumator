@@ -1,2 +1,2 @@
-# resumator
-glitch app for my resume
+Forked from [phoinixi](https://phoinixi.github.io/website/resume/stackoverflow)
+

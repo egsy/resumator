@@ -1,0 +1,19 @@
+{
+  "name": "resumator",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js",
+    "post-start": "resume serve"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.18.1",
+    "resume-cli": "^1.1.2",
+    "hbs": "^4.0.1",
+    "express-handlebars": "^3.0.0",
+    "resume-schema": "^0.0.16"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
